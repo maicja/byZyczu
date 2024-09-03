@@ -1,0 +1,20 @@
+C:\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\bin\Release\byZyczu Updater.exe.config
+C:\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\bin\Release\byZyczu Updater.exe
+C:\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\bin\Release\byZyczu Updater.pdb
+C:\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\obj\Release\byZyczu Updater.csproj.AssemblyReference.cache
+C:\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\obj\Release\byZyczu_Updater.Form1.resources
+C:\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\obj\Release\byZyczu_Updater.Properties.Resources.resources
+C:\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\obj\Release\byZyczu Updater.csproj.GenerateResource.cache
+C:\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\obj\Release\byZyczu Updater.csproj.CoreCompileInputs.cache
+C:\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\obj\Release\byZyczu Updater.exe
+C:\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\obj\Release\byZyczu Updater.pdb
+D:\bakup\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\bin\Release\byZyczu Updater.exe.config
+D:\bakup\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\bin\Release\byZyczu Updater.exe
+D:\bakup\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\bin\Release\byZyczu Updater.pdb
+D:\bakup\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\obj\Release\byZyczu Updater.csproj.AssemblyReference.cache
+D:\bakup\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\obj\Release\byZyczu_Updater.Form1.resources
+D:\bakup\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\obj\Release\byZyczu_Updater.Properties.Resources.resources
+D:\bakup\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\obj\Release\byZyczu Updater.csproj.GenerateResource.cache
+D:\bakup\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\obj\Release\byZyczu Updater.csproj.CoreCompileInputs.cache
+D:\bakup\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\obj\Release\byZyczu Updater.exe
+D:\bakup\projects\byZyczu\Updater\byZyczu Updater\byZyczu Updater\obj\Release\byZyczu Updater.pdb
