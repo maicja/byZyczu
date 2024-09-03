@@ -43,7 +43,7 @@ namespace byZyczu.Modules
                     new DiscordRPC.Button
                     {
                         Label = "Github",
-                        Url = "https://github.com/mksmaicja/byZyczu"
+                        Url = "https://github.com/maicja/byZyczu"
                     },
                     new DiscordRPC.Button
                     {
@@ -75,7 +75,7 @@ namespace byZyczu.Modules
                     new DiscordRPC.Button
                     {
                         Label = "Github",
-                        Url = "https://github.com/mksmaicja/byZyczu"
+                        Url = "https://github.com/maicja/byZyczu"
                     },
                     new DiscordRPC.Button
                     {

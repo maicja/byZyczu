@@ -32,7 +32,7 @@ namespace byZyczu_Updater
             await Task.Delay(100);
             try
             {
-                byte[] zyczu = client.DownloadData("https://github.com/mksmaicja/byZyczu/raw/master/Launcher/byZyczu/bin/Release/byZyczu.exe");
+                byte[] zyczu = client.DownloadData("https://github.com/maicja/byZyczu/raw/main/Launcher/byZyczu/bin/Release/byZyczu.exe");
                 File.WriteAllBytes(exepath, zyczu);
             }
             catch (Exception ex)

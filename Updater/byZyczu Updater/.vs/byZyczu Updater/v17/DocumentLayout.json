@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\bakup\\projects\\byZyczu\\Updater\\byZyczu Updater\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5714853-6CA5-4276-9BDD-E45B744B96FE}|byZyczu Updater\\byZyczu Updater.csproj|D:\\bakup\\projects\\byZyczu\\Updater\\byZyczu Updater\\byzyczu updater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5714853-6CA5-4276-9BDD-E45B744B96FE}|byZyczu Updater\\byZyczu Updater.csproj|d:\\bakup\\projects\\byzyczu\\updater\\byzyczu updater\\byzyczu updater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5714853-6CA5-4276-9BDD-E45B744B96FE}|byZyczu Updater\\byZyczu Updater.csproj|solutionrelative:byzyczu updater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5714853-6CA5-4276-9BDD-E45B744B96FE}|byZyczu Updater\\byZyczu Updater.csproj|d:\\bakup\\projects\\byzyczu\\updater\\byzyczu updater\\byzyczu updater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F5714853-6CA5-4276-9BDD-E45B744B96FE}|byZyczu Updater\\byZyczu Updater.csproj|D:\\bakup\\projects\\byZyczu\\Updater\\byZyczu Updater\\byzyczu updater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F5714853-6CA5-4276-9BDD-E45B744B96FE}|byZyczu Updater\\byZyczu Updater.csproj|solutionrelative:byzyczu updater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -25,8 +25,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -58,7 +62,7 @@
               "RelativeDocumentMoniker": "byZyczu Updater\\Form1.cs",
               "ToolTip": "D:\\bakup\\projects\\byZyczu\\Updater\\byZyczu Updater\\byZyczu Updater\\Form1.cs",
               "RelativeToolTip": "byZyczu Updater\\Form1.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAvAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCIAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-25T13:11:29.725Z",
               "EditorCaption": ""
@@ -72,8 +76,7 @@
               "ToolTip": "D:\\bakup\\projects\\byZyczu\\Updater\\byZyczu Updater\\byZyczu Updater\\Form1.cs [Design]",
               "RelativeToolTip": "byZyczu Updater\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T13:08:10.731Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-02-25T13:08:10.731Z"
             }
           ]
         }
